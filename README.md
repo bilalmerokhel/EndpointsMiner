@@ -6,4 +6,4 @@
 - Run the script `./EndpointsMiner.sh`
 
 
-![How To](https://raw.githubusercontent.com/bilalmerokhel/EndpointsMiner/main/IMG.png | width=100)
+![](https://raw.githubusercontent.com/bilalmerokhel/EndpointsMiner/main/IMG.png =250x250)
